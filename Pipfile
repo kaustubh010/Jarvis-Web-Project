@@ -1,4 +1,4 @@
-flask = "*"
-flask-pymongo = "*"
-googlebard = "*"
+flask
+flask-pymongo
+googlebard
 python_version = "3.11"
