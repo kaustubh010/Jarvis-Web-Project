@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tailwind": "npx tailwindcss -i ./static/input.css -o ./static/css/main.css --watch    ",
-    "install": "pip install -r requirements.txt",
+    "install": "pip install -r Pipfile",
     "build": "python3 main.py"
   },
   "keywords": [],
