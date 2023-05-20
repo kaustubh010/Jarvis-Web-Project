@@ -1,4 +1,4 @@
 flask
 flask_pymongo
 GoogleBard
-urllib3==1.26.6
+openssl@1.1
